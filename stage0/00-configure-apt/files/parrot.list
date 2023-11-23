@@ -1,0 +1,18 @@
+deb https://deb.parrot.sh/parrot RELEASE main contrib non-free non-free-firmware
+deb https://deb.parrot.sh/direct/parrot RELEASE-security main contrib non-free non-free-firmware
+deb https://deb.parrot.sh/parrot RELEASE-updates main contrib non-free non-free-firmware
+deb https://deb.parrot.sh/parrot RELEASE-backports main contrib non-free non-free-firmware
+
+##############################
+## Source Code Repositories ##
+##############################
+## These repositories provide the debian source artifacts of the packages
+## in the corresponding repos in the form of dsc files and the corresponding
+## tarballs
+##
+## you only need these repositories if you intend to download the source code
+## of a package and re-compile it yourself with debian-compliant build tools
+#deb-src https://deb.parrot.sh/parrot lory main contrib non-free non-free-firmware
+#deb-src https://deb.parrot.sh/parrot lory-security main contrib non-free non-free-firmware
+#deb-src https://deb.parrot.sh/parrot lory-backports main contrib non-free non-free-firmware
+#deb-src https://deb.parrot.sh/parrot lory-updates main contrib non-free non-free-firmware

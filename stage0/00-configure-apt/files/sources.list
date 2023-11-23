@@ -1,7 +1,5 @@
-deb http://deb.debian.org/debian RELEASE main contrib non-free non-free-firmware
-deb http://deb.debian.org/debian-security/ RELEASE-security main contrib non-free non-free-firmware
-deb http://deb.debian.org/debian RELEASE-updates main contrib non-free non-free-firmware
+deb [ arch=armhf ] http://raspbian.raspberrypi.com/raspbian/ bookworm main contrib non-free rpi
 # Uncomment deb-src lines below then 'apt-get update' to enable 'apt-get source'
-#deb-src http://deb.debian.org/debian RELEASE main contrib non-free non-free-firmware
-#deb-src http://deb.debian.org/debian-security/ RELEASE-security main contrib non-free non-free-firmware
-#deb-src http://deb.debian.org/debian RELEASE-updates main contrib non-free non-free-firmware
+#deb-src http://deb.debian.org/debian bookworm main contrib non-free non-free-firmware
+#deb-src http://deb.debian.org/debian-security/ bookworm-security main contrib non-free non-free-firmware
+#deb-src http://deb.debian.org/debian bookworm-updates main contrib non-free non-free-firmware
