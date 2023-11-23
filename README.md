@@ -209,7 +209,7 @@ The following environment variables are supported:
    Setting to `1` will enable ssh server for remote log in. Note that if you are using a common password such as the defaults there is a high risk of attackers taking over you Raspberry Pi.
 
   * `PUBKEY_SSH_FIRST_USER` (Default: unset)
-
+  
    Setting this to a value will make that value the contents of the FIRST_USER_NAME's ~/.ssh/authorized_keys.  Obviously the value should
    therefore be a valid authorized_keys file.  Note that this does not
    automatically enable SSH.
