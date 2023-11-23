@@ -1,7 +1,12 @@
-# pi-gen
+# ParrotOS Raspberry Pi image builder
 
-Tool used to create Raspberry Pi OS images. (Previously known as Raspbian).
+Tool used to create ParrotOS images for Raspberry Pi devices.
 
+This is a fork from https://github.com/RPi-Distro/pi-gen
+
+First of all, a big thank you to the Raspberry Pi OS team for creating and maintaining this tool. 
+
+The main repositories were changed to those of ParrotOS and some micro changes were made so that a Parrot system could be built compatible with Raspberry Pi devices. Other changes will be made, including packages typically available on ParrotOS (x86_64).
 
 ## Dependencies
 
