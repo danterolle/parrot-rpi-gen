@@ -1,7 +1,7 @@
-deb https://deb.parrot.sh/parrot RELEASE main contrib non-free non-free-firmware
-deb https://deb.parrot.sh/direct/parrot RELEASE-security main contrib non-free non-free-firmware
-deb https://deb.parrot.sh/parrot RELEASE-updates main contrib non-free non-free-firmware
-#deb https://deb.parrot.sh/parrot RELEASE-backports main contrib non-free non-free-firmware
+deb https://deb.parrot.sh/parrot lory main contrib non-free non-free-firmware
+deb https://deb.parrot.sh/direct/parrot lory-security main contrib non-free non-free-firmware
+deb https://deb.parrot.sh/parrot lory-updates main contrib non-free non-free-firmware
+#deb https://deb.parrot.sh/parrot lory-backports main contrib non-free non-free-firmware
 
 ##############################
 ## Source Code Repositories ##
