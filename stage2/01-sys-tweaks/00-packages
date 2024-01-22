@@ -1,3 +1,7 @@
+librsvg2-common
+libcairo-gobject2=1.16.0-7+rpt1
+libmate-panel-applet-4-1
+libgtk-3-0
 ssh less fbset sudo psmisc strace ed ncdu
 console-setup keyboard-configuration debconf-utils parted
 build-essential manpages-dev bash-completion gdb pkg-config
@@ -48,3 +52,6 @@ nload
 iftop
 cloud-guest-utils
 lshw
+parrot-displaymanager
+parrot-desktop-mate
+parrot-interface

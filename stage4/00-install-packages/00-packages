@@ -1,21 +1,18 @@
+wf-panel-pi-
 python3-pygame
 python3-tk thonny
 python3-pgzero
 python3-serial
-debian-reference-en dillo
-raspberrypi-net-mods raspberrypi-ui-mods
+raspberrypi-net-mods
 python3-pip
 python3-numpy
-alacarte rc-gui sense-hat
 tree
-libgl1-mesa-dri libgles1 libgles2-mesa xcompmgr
-geany
+libgl1-mesa-dri libgles1
 piclone
 python3-twython
 python3-flask
 pprompt
 piwiz
-rp-prefapps
 ffmpeg
 vlc
 rpi-imager
