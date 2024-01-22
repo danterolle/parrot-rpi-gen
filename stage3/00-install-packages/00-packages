@@ -13,3 +13,6 @@ libcamera-apps
 python3-picamera2
 python3-pyqt5
 python3-opengl
+parrot-displaymanager
+parrot-desktop-mate
+parrot-interface
