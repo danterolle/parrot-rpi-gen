@@ -7,7 +7,7 @@ console-setup keyboard-configuration debconf-utils parted
 build-essential manpages-dev bash-completion gdb pkg-config
 python-is-python3
 v4l-utils
-python3-libgpiod
+gpiod
 python3-gpiozero
 # pigpio python3-pigpio python3-rpi.gpio
 raspi-gpio 
@@ -42,6 +42,7 @@ udisks2
 unzip zip p7zip-full
 file
 kms++-utils
+python3-venv
 base-files
 rng-tools5
 haveged
